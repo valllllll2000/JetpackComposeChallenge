@@ -1,4 +1,4 @@
-# Puppy Jetpacl Compose Challenge
+# Puppy Jetpack Compose Challenge
 
 Generated with the [template repository](https://github.com/android/android-dev-challenge-compose) for the Jetpack Compose [#AndroidDevChallenge](https://developer.android.com/dev-challenge).
 
