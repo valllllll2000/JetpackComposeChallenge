@@ -39,5 +39,5 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
-## Screenshot
-![Screenshot_1615764660](https://user-images.githubusercontent.com/923280/111088105-d6440c00-8525-11eb-8c19-6a6d25d9ded7.png)
+## Screenshots
+<img src="https://user-images.githubusercontent.com/923280/111088105-d6440c00-8525-11eb-8c19-6a6d25d9ded7.png" width="300" />
