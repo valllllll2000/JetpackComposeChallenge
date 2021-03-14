@@ -1,6 +1,6 @@
-# Template repository
+# Puppy Jetpacl Compose Challenge
 
-Template repository for the Jetpack Compose [#AndroidDevChallenge](https://developer.android.com/dev-challenge).
+Generated with the [template repository](https://github.com/android/android-dev-challenge-compose) for the Jetpack Compose [#AndroidDevChallenge](https://developer.android.com/dev-challenge).
 
 ## Getting started
 Copy this repository by pressing the "Use this template" button in Github.
